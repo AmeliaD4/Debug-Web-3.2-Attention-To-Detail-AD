@@ -1,0 +1,42 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+p {
+  color: gray;
+  font-style: italic;
+}
+h1 {
+  color: #506c91;
+  font-weight: bold;
+  font-family: Helvetica, sans-serif;
+}
+
+h3 {
+  color: navy;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family: Helvetica, sans-serif;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+}
+body{
+  background-color: #f8f0ff;
+}
+#Red{
+  color: red;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#Green{
+  color: green;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+  color: #5b5bd7;
+  font-weight: bold;
+  font-family: Helvetica, sans-serif;
+}
+/*added css for the body and changed the h1 to be a bit lighter.*/
+/*Added css for h2 and Red and Green id.*/
